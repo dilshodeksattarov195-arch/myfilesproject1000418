@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefonnect",
+        "uuid": 1964600,
+        "checksum": "nc5u8a"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
